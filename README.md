@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on the Big Bang project
+- 🔭 I’m currently working on the Big Bang project - or, anyway, a small part of it
 - 🌱 I’m currently learning esoteric languages
 - 👯 I’m looking to collaborate on scientific computing projects
 - 🤔 I’m looking for help with bit wrangling
