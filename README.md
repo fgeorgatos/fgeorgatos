@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on the Big Bang project - or, anyway, a small part of it
-- 🌱 I’m currently learning esoteric languages
 - 👯 I’m looking to collaborate on scientific computing projects
-- 🤔 I’m looking for help with bit wrangling
+- 🤔 I’m looking for help with bit wrangling - I am also giving that kind of help
 - 💬 Ask me about HPC and large scale platforms
+- 🌱 I’m currently learning esoteric languages
 - 📫 How to reach me: linkedin
-- 😄 Pronouns: Eur Ing / Drs
+- 😄 Pronouns: Eur Ing / Drs - who cares about the other pronouns
 - ⚡ Fun fact: sailing is what remains when land moves get tricky
 
 <h3 align="left">What I do</h3>
