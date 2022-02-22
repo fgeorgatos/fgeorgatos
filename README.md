@@ -12,7 +12,7 @@
 <h3 align="left">What I do</h3>
 <p align="left">
  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
- <a href="https://gitlab.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/GitLab_Logo.svg/1200px-GitLab_Logo.svg.png" alt="gitlab" width="40" height="40"/> </a>
+ <a href="https://gitlab.com/" target="_blank"> <img src="https://gitlab.com/assets/illustrations/golden_tanuki-a88ad492b973a0ea6be2316b12aeb3a76ee4e926b3b217dc26d01a57033c9948.svg" alt="gitlab" width="40" height="40"/> </a>
  <a href="https://github.com/" target="_blank"> <img src="https://github.com/shalomb/shalomb/raw/master/img/github.png" alt="github" width="40" height="40"/> </a>
  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
  <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
