@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on the Big Bang project - or, anyway, a small part of it
-- 👯 I’m looking to collaborate on scientific computing projects
+- 🔭 I’m currently working on the Big Bang project - or, anyway, some small part of it
+- 👯 I’m interested in collaborations over technical and scientific computing projects
 - 🤔 I’m looking for help with bit wrangling - I am also giving that kind of help
-- 💬 Ask me about HPC and large scale platforms
-- 🌱 I’m currently learning esoteric languages
-- 📫 How to reach me: linkedin
-- 😄 Pronouns: Eur Ing / Drs - who cares about the other pronouns
-- ⚡ Fun fact: sailing is what remains when land moves get tricky
+- 💬 Ask me about large scale platforms, HPC, emdedded systems and in between
+- 🌱 I’m currently learning minimalistic languages in my free time
+- 📫 How to reach me: linkedin for professional communications
+- 😄 Pronouns: Eur Ing / Drs
+- ⚡ Fun fact: sailing is the way to go
 
 <h3 align="left">What I do</h3>
 <p align="left">
