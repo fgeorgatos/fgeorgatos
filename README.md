@@ -6,7 +6,7 @@
 - 💬 Ask me about large scale platforms, HPC, emdedded systems and in between
 - 🌱 I’m currently learning minimalistic languages in my free time
 - 📫 How to reach me: linkedin for professional communications
-- 😄 Pronouns: Eur Ing / Drs
+- 😄 Pronouns: Eur Ing (it is what it is)
 - ⚡ Fun fact: sailing is the way to go
 
 <h3 align="left">What I do</h3>
